@@ -126,7 +126,7 @@ ctest --test-dir build-host --output-on-failure
 
 ## License
 
-MX-KMeans is licensed under the [MIT License](LICENSE).
+MX-KMeans is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE).
 External dependencies, including CUTLASS and CUDA, retain their own licenses.
 
 ## Citation
