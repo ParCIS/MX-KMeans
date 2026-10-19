@@ -1,0 +1,9 @@
+/build*/
+/third_party/
+/data/
+/results/
+/labels.csv
+__pycache__/
+*.pyc
+*.nsys-rep
+*.ncu-rep
